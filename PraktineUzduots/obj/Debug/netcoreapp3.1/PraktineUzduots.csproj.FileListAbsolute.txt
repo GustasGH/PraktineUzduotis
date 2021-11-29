@@ -1,0 +1,14 @@
+C:\Users\MSI\Documents\GitHub\PraktineUzduotis\PraktineUzduots\bin\Debug\netcoreapp3.1\PraktineUzduots.exe
+C:\Users\MSI\Documents\GitHub\PraktineUzduotis\PraktineUzduots\bin\Debug\netcoreapp3.1\PraktineUzduots.deps.json
+C:\Users\MSI\Documents\GitHub\PraktineUzduotis\PraktineUzduots\bin\Debug\netcoreapp3.1\PraktineUzduots.runtimeconfig.json
+C:\Users\MSI\Documents\GitHub\PraktineUzduotis\PraktineUzduots\bin\Debug\netcoreapp3.1\PraktineUzduots.runtimeconfig.dev.json
+C:\Users\MSI\Documents\GitHub\PraktineUzduotis\PraktineUzduots\bin\Debug\netcoreapp3.1\PraktineUzduots.dll
+C:\Users\MSI\Documents\GitHub\PraktineUzduotis\PraktineUzduots\bin\Debug\netcoreapp3.1\PraktineUzduots.pdb
+C:\Users\MSI\Documents\GitHub\PraktineUzduotis\PraktineUzduots\obj\Debug\netcoreapp3.1\PraktineUzduots.csproj.AssemblyReference.cache
+C:\Users\MSI\Documents\GitHub\PraktineUzduotis\PraktineUzduots\obj\Debug\netcoreapp3.1\PraktineUzduots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Documents\GitHub\PraktineUzduotis\PraktineUzduots\obj\Debug\netcoreapp3.1\PraktineUzduots.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\GitHub\PraktineUzduotis\PraktineUzduots\obj\Debug\netcoreapp3.1\PraktineUzduots.AssemblyInfo.cs
+C:\Users\MSI\Documents\GitHub\PraktineUzduotis\PraktineUzduots\obj\Debug\netcoreapp3.1\PraktineUzduots.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\GitHub\PraktineUzduotis\PraktineUzduots\obj\Debug\netcoreapp3.1\PraktineUzduots.dll
+C:\Users\MSI\Documents\GitHub\PraktineUzduotis\PraktineUzduots\obj\Debug\netcoreapp3.1\PraktineUzduots.pdb
+C:\Users\MSI\Documents\GitHub\PraktineUzduotis\PraktineUzduots\obj\Debug\netcoreapp3.1\PraktineUzduots.genruntimeconfig.cache
