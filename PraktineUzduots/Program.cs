@@ -6,7 +6,10 @@ namespace PraktineUzduots
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            // s - plotas, v - turis, r - spindulys, a/b/c trikampio krastines
+
+
         }
     }
 }

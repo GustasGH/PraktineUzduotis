@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rxt6MOtf2gXateLvXHOdnclndtwEexUr9Enmrvt4GoOqCHaTHefNnwyq3T1zNvFZ1sDieiFGOBxPWMfIfike3w==",
+  "dgSpecHash": "ZnH+R40eiQ/IZ//4NXdEx5gu7B44QD/CMbo1Q0P+jaf5R6wX6DaLt2B4/n93XodzJHDhOPdcHVNQ4it+sc6pXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MSI\\Desktop\\.NET stuff\\PraktineUzduots\\PraktineUzduots\\PraktineUzduots.csproj",
+  "projectFilePath": "C:\\Users\\MSI\\Documents\\GitHub\\PraktineUzduotis\\PraktineUzduots\\PraktineUzduots.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
     "C:\\Users\\MSI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
